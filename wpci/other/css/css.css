@@ -1,0 +1,30 @@
+            body
+            {
+                background-color: black;
+                background-repeat: no-repeat;
+                background-position: top;
+                text-align: center;
+            }
+            h1,h2,h3,h4,h5,p
+            {
+                color: white;
+                text-align: center;
+            }
+            a
+            {
+                color: red;
+                text-decoration: none;
+            }
+            pre
+            {
+                color: white;
+                font-family:Arial, Helvetica, sans-serif;
+                font-weight: lighter;
+            }
+            #teleport
+            {
+                background-color: #3d90ef;
+                border-radius: 10px;
+                width:150px;
+                height:30px;
+            }
